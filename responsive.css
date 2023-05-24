@@ -1,0 +1,64 @@
+@media screen and (max-width:575.99px) {
+ .banner{
+   
+    flex-direction: column;
+ }
+ .banner-img{
+padding-left: 70px;
+ }  
+ .about{
+flex-direction: column;
+
+padding: 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
+.about-total-part1{
+margin-top: 30px;
+
+}
+.progress-section{
+margin-top: 30px;
+}
+.offer-list{
+    flex-direction: column;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+
+}
+.offer-list-part{
+margin-top: 20px;
+}
+
+.project-list{
+flex-direction: column;
+}
+.work{
+padding-left: 30px;
+padding-right: 30px;
+}
+.work-list{
+flex-direction: column;
+padding-left: 30px;
+padding-right: 30px;
+}
+.work-list-part{
+margin-top: 20px;
+}
+.blog{
+padding-left: 30px;
+padding-right: 30px;
+}
+.blog-list{
+flex-direction: column;
+padding-left: 30px;
+padding-right: 30px;
+}
+.fotter{
+padding-left: 30px;
+padding-right: 30px;
+}
+
+
+}
